@@ -1,4 +1,6 @@
-👋 Olá! Sou Vinicius, um entusiasta de Tecnologia da Informação apaixonado por desafios e crescimento profissional. Com uma sólida formação acadêmica e vasta experiência em suporte técnico e administração de redes, estou buscando uma nova oportunidade para contribuir para o sucesso de uma organização dinâmica.
+## Olá! Sou Vinicius Caldas 👋  
+
+Sou um entusiasta de Tecnologia da Informação apaixonado por desafios e crescimento profissional. Com uma sólida formação acadêmica e vasta experiência em suporte técnico e administração de redes, estou buscando uma nova oportunidade para contribuir para o sucesso de uma organização dinâmica.
 
 🚀 Minha jornada na Tecnologia da Informação tem sido marcada pela busca constante por conhecimento e aprimoramento, especialmente na área de DevOps. Tenho investido em meu desenvolvimento participando de cursos online e presenciais, e obtendo qualificações em uma variedade de áreas, desde algoritmos e lógica de programação até práticas avançadas de DevOps e computação em nuvem.
 
@@ -6,22 +8,17 @@
 
 🔧 Estou empenhado em contribuir para o sucesso da sua organização, aplicando minha experiência em suporte técnico, administração de redes e habilidades em DevOps. Se você procura um profissional dedicado, apaixonado por tecnologia e pronto para enfrentar novos desafios, ficarei feliz em conectar-me e explorar oportunidades de colaboração.
 
-📫 Você pode me encontrar também no LinkedIn: [linkedin.com/in/viniciuscaol/](https://www.linkedin.com/in/viniciuscaol/)
-📧 E-mail: viniciuscaol@gmail.com
-📞 Telefone: (71) 99233-0850
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscaol@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571992330850) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuscaol/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuscaol/?theme=dark)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciuscaol)
 
 
-<!--
-**viniciuscaol/viniciuscaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![VinciiusCaOl GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuscaol&show_icons=true&theme=locale)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscaol&layout=pie)](https://github.com/viniciuscaol/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
