@@ -1,7 +1,13 @@
 ## Olá! Sou Vinicius Caldas 👨‍💻🔄⚙️  
 
 # 💫 Sobre mim:
-👋 Sou um entusiasta de Tecnologia da Informação apaixonado por desafios e crescimento profissional. Com uma sólida formação acadêmica e vasta experiência em suporte técnico e administração de redes, estou buscando uma nova oportunidade para contribuir para o sucesso de uma organização dinâmica.<br><br>🚀 Minha jornada na Tecnologia da Informação tem sido marcada pela busca constante por conhecimento e aprimoramento, especialmente na área de DevOps. Tenho investido em meu desenvolvimento participando de cursos online e presenciais, e obtendo qualificações em uma variedade de áreas, desde algoritmos e lógica de programação até práticas avançadas de DevOps e computação em nuvem.<br><br>💻 Com uma paixão crescente pela cultura DevOps, tenho buscado constantemente aprimorar minhas habilidades para impulsionar a colaboração entre equipes de desenvolvimento e operações, visando a automação de processos, entrega contínua e melhoria contínua.<br><br>🔧 Estou empenhado em contribuir para o sucesso da sua organização, aplicando minha experiência em suporte técnico, administração de redes e habilidades em DevOps. Se você procura um profissional dedicado, apaixonado por tecnologia e pronto para enfrentar novos desafios, ficarei feliz em conectar-me e explorar oportunidades de colaboração.
+👋 Sou um profissional de Tecnologia da Informação com mais de 15 anos de vivência no setor. Tenho um forte background em infraestrutura, redes e suporte, e atualmente direciono minha carreira e estudos para as áreas de **Cloud Computing e DevOps**.
+
+🚀 Minha trajetória é marcada pela evolução constante. Possuo sólida experiência na administração de servidores (Linux/Windows), configuração de redes de larga escala e segurança cibernética (Fortigate, switches, roteadores), além do gerenciamento de ambientes críticos de homologação, testes e produção.
+
+💻 Sou apaixonado por otimização e automação. Tenho aplicado na prática ferramentas para pipelines CI/CD, conteinerização (Docker, Kubernetes), Infraestrutura como Código (Terraform, Ansible) e monitoramento (Prometheus, Grafana, Zabbix). Meu objetivo é sempre impulsionar a colaboração entre desenvolvimento e operações, garantindo alta disponibilidade, performance e entregas contínuas.
+
+🔧 Busco aplicar minhas habilidades em infraestrutura avançada e práticas DevOps para resolver problemas complexos e agregar valor real às organizações. Se você procura um profissional dedicado, com uma base sólida e pronto para atuar com as mais novas tecnologias de nuvem (AWS, GCP, Azure), ficarei feliz em me conectar!
 
 <div style= "text-align: center;">
 
